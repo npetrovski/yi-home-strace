@@ -1,0 +1,1 @@
+Compile `strace` for YI Home Camera
